@@ -1,2 +1,3 @@
 # GAN-pytorch-implementations
-Th
+
+This Repo implments various versions of GAN using Pytorch and Python
