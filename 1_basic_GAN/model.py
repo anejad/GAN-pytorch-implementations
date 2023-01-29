@@ -1,5 +1,6 @@
 """
-Basic Fully connected GAN network builder
+Basic Fully connected GAN network builder:
+based on :  Goodfellow, et al 2014 - https://arxiv.org/abs/1406.2661
 """
 import warnings
 warnings.filterwarnings("ignore")
